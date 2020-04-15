@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e8db146-4826-474d-a9a5-e8ab515909e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a1WrN2zSSQSOScIksEoSXEvGgh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.counting_elements">
+    <configuration name="best_time_to_buy_and_sell_stock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="30-day-challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/best_time_to_buy_and_sell_stock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="counting_elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="30-day-challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/counting_elements.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="group_anagrams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="30-day-challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/group_anagrams.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="maximum_subarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="30-day-challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maximum_subarray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="move_zeros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="30-day-challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/move_zeros.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.best_time_to_buy_and_sell_stock" />
+      <item itemvalue="Python.group_anagrams" />
+      <item itemvalue="Python.maximum_subarray" />
+      <item itemvalue="Python.move_zeros" />
+      <item itemvalue="Python.counting_elements" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.counting_elements" />
+        <item itemvalue="Python.best_time_to_buy_and_sell_stock" />
+        <item itemvalue="Python.group_anagrams" />
+        <item itemvalue="Python.move_zeros" />
+        <item itemvalue="Python.maximum_subarray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e8db146-4826-474d-a9a5-e8ab515909e7" name="Default Changelist" comment="" />
+      <created>1585903777233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585903777233</updated>
+      <workItem from="1585903779034" duration="1616000" />
+      <workItem from="1585905908649" duration="1384000" />
+      <workItem from="1585926847251" duration="4206000" />
+      <workItem from="1585945805721" duration="17000" />
+      <workItem from="1585987166926" duration="279000" />
+      <workItem from="1586072770426" duration="1092000" />
+      <workItem from="1586161786648" duration="1499000" />
+      <workItem from="1586163606893" duration="616000" />
+      <workItem from="1586164298793" duration="953000" />
+      <workItem from="1586245992501" duration="1754000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="629" y="119" width="652" height="812" key="#best_time_to_buy_and_sell_stock" timestamp="1586246053216">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="629" y="119" width="652" height="812" key="#best_time_to_buy_and_sell_stock/0.26.1920.1054@0.26.1920.1054" timestamp="1586246053216" />
+    <state x="418" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586246070575">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="418" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.26.1920.1054@0.26.1920.1054" timestamp="1586246070575" />
+    <state x="632" y="316" width="646" height="417" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585904151360">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="632" y="316" width="646" height="417" key="#com.intellij.fileTypes.FileTypeChooser/0.26.1920.1054@0.26.1920.1054" timestamp="1585904151360" />
+    <state x="629" y="119" width="652" height="812" key="#counting_elements" timestamp="1586246063484">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="629" y="119" width="652" height="812" key="#counting_elements/0.26.1920.1054@0.26.1920.1054" timestamp="1586246063484" />
+    <state x="743" y="311" width="424" height="485" key="FileChooserDialogImpl" timestamp="1586164345430">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="743" y="311" width="424" height="485" key="FileChooserDialogImpl/0.26.1920.1054@0.26.1920.1054" timestamp="1586164345430" />
+    <state width="1874" height="272" key="GridCell.Tab.0.bottom" timestamp="1586248312363">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="1874" height="272" key="GridCell.Tab.0.bottom/0.26.1920.1054@0.26.1920.1054" timestamp="1586248312363" />
+    <state width="1874" height="272" key="GridCell.Tab.0.center" timestamp="1586248312362">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="1874" height="272" key="GridCell.Tab.0.center/0.26.1920.1054@0.26.1920.1054" timestamp="1586248312362" />
+    <state width="1874" height="272" key="GridCell.Tab.0.left" timestamp="1586248312362">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="1874" height="272" key="GridCell.Tab.0.left/0.26.1920.1054@0.26.1920.1054" timestamp="1586248312362" />
+    <state width="1874" height="272" key="GridCell.Tab.0.right" timestamp="1586248312362">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="1874" height="272" key="GridCell.Tab.0.right/0.26.1920.1054@0.26.1920.1054" timestamp="1586248312362" />
+    <state width="1874" height="340" key="GridCell.Tab.1.bottom" timestamp="1586248312357">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.bottom/0.26.1920.1054@0.26.1920.1054" timestamp="1586248312357" />
+    <state width="1874" height="340" key="GridCell.Tab.1.center" timestamp="1586248312357">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.center/0.26.1920.1054@0.26.1920.1054" timestamp="1586248312357" />
+    <state width="1874" height="340" key="GridCell.Tab.1.left" timestamp="1586248312357">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.left/0.26.1920.1054@0.26.1920.1054" timestamp="1586248312357" />
+    <state width="1874" height="340" key="GridCell.Tab.1.right" timestamp="1586248312357">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.right/0.26.1920.1054@0.26.1920.1054" timestamp="1586248312357" />
+    <state x="623" y="215" width="672" height="678" key="search.everywhere.popup" timestamp="1586162328804">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="623" y="215" width="672" height="678" key="search.everywhere.popup/0.26.1920.1054@0.26.1920.1054" timestamp="1586162328804" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/30_day_challenge$counting_elements.coverage" NAME="counting_elements Coverage Results" MODIFIED="1586246971942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
