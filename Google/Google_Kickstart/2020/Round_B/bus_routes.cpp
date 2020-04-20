@@ -1,24 +1,26 @@
 #include<bits/stdc++.h>
 
 using namespace std;
-typedef long long ll;
 
 int main()
 {
-    int cases;
-    scanf("%d", &cases);
-    for(auto i{1}; i <= cases; i++)
+    int cases; cin >> cases;
+    for(auto cc{1}; cc <= cases; cc++)
     {
-		int n; cin >> n;
-		int64_t d; cin >> d;
-		vector<int64_t> v(n);
-		
-		for(auto j{0}; j < n; j++)
-			cin >> v[j];
-		
-		for(auto j{n-1}; j >= 0; j--)
-			d = d - (d % v[j]);
-		
-		cout << "Case #" << i << ": " << d << "\n";
+        int n; cin >> n;
+        int64_t d; cin >> d;
+        vector<int64_t> v;
+        int num;
+        for(auto i{0}; i < n; i++)
+        {
+            cin >> num;
+            v.push_back(num);
+        }
+
+
+        for(auto i{n-1}; i >= 0; i--)
+            d = d - (d % v[i]);
+
+        cout << "Case #" << cc << ": " << d << "\n";
     }
 }
